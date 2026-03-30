@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Champion",
   "base_artist": "BLACKPINK",
-  "createdAt": "2026-03-24T16:42:25.540313Z",
+  "createdAt": "2026-03-30T14:27:13.721345Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "BLACKPINK",
       "has_synced": false,
       "path": "select/pl_01_Champion_BLACKPINK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Champion",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/localdb_01_Champion_BLACKPINK.txt",
+      "repo_name": "PgOGYHPoPsE"
     }
   ]
 }
